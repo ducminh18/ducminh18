@@ -1,3 +1,3 @@
 - Nguyen Minh Duc  
-- 22 years old
-- Senior
+- 25 years old
+- DEV
